@@ -10,7 +10,7 @@ Aqui estão presentes os dados e o código usados para o gráfico autoral da rel
 
 Aqui estão presentes todas as imagens usadas na apresentação.
 
-## mais_limpo.tex
+## main limpo.tex
 
 Este é o código da apresentação em `.tex`, revisado para facilitar a leitura.
 
