@@ -17,3 +17,7 @@ Este é o código da apresentação em `.tex`, revisado para facilitar a leitura
 ## referencias.bib
 
 Este é o arquivo de referências bibliográficas em BibTeX.
+
+## Vizualisação de dados de maneira moderna.pdf
+
+Slides compilados em PDF.
